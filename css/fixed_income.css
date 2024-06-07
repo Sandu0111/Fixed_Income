@@ -58,7 +58,7 @@ body{
     bottom: 0%;
     padding-left: 8%;
     padding-right: 8%;
-    height: 70%;
+    height: 72%;
 
 
 }
@@ -207,7 +207,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: fit-content;
     background-image: url('../assets/fixed_income/page8bg.png');
     background-size: 100% 100%;
     background-image: cover;
@@ -215,7 +215,7 @@ body{
 }
 .page9{
     width: 100vw;
-    height: 100vh;
+    height: fit-content;
     background-image: url('../assets/fixed_income/25.png');
     background-size: 100% 100%;
     background-image: cover;
@@ -350,7 +350,7 @@ font-size: 17px;
 }
 .subHeading2{
     font-family: 'DM Sans';
-    font-size: 32px;
+    font-size: x-large;
 }
 .blue_bckg{
     background-color:#343CFF ;
