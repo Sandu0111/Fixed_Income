@@ -91,6 +91,44 @@ body{
     justify-content: center;
     flex-direction: column;
 }
+.page3N
+    {
+        background: url('../assets/fixed_income/page3bg.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        /* background-size:cover; */
+        background-size:100% 100%; 
+        width: 100vw;
+        height: fit-content;
+    }
+    .page3head
+    {
+        color: #9650DC;
+        font-size: 64px;
+        font-family: 'Roca';
+        /* margin-top: 20%; */
+        line-height: 1;
+    }
+
+    .text
+    {
+        color: #FCFAFC;
+        font-family: 'Roca';
+        font-size: 1.8em;
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        padding-left: 6%;
+        flex-direction: column;
+        
+    }
+    .number 
+    {
+        color: #C447E1;
+        font-family: 'Roca';
+        font-size: 4rem;
+        justify-content: center;
+    }
 .page3{
     width: 100vw;
     height: 100vh;
